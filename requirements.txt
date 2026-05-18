@@ -1,2 +1,5 @@
 pandas
 numpy
+nltk
+datasets
+tensorflow==2.10
